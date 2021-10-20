@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1c108d9af7ea5ba40ad4fec60d1bb654
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _burgerPrefab: {fileID: 1077661362793917479, guid: f8f9980601ec756488e5d5b026648403, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
